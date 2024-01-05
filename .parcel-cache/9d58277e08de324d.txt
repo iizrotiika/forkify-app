@@ -22,7 +22,7 @@
 85C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\@swc\helpers\esm\_dispose.js133479916885147540 0
 108C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts.map133479916876672802 0
 100C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\core-js\modules\es.typed-array.to-sorted.js133480614037645200 0
-48C:\Users\xupxy\OneDrive\Desktop\forkify-app\dist133487576859433771 1
+48C:\Users\xupxy\OneDrive\Desktop\forkify-app\dist133488394620666076 1
 106C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\caniuse-lite\data\features\css-backdrop-filter.js133479916885037830 0
 88C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\csso\cjs\replace\Percentage.cjs133479916872339108 0
 90C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\core-js\es\string\virtual\trim.js133480614084621558 0
@@ -153,7 +153,7 @@
 104C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\csso\node_modules\css-tree\lib\parser\create.js133479916885716017 0
 60C:\Users\xupxy\OneDrive\Desktop\forkify-app\src\img\logo.png132886955210000000 0
 98C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\@swc\helpers\cjs\_non_iterable_spread.cjs133479916876672802 0
-71C:\Users\xupxy\OneDrive\Desktop\forkify-app\src\js\views\resultsView.js133485877362688418 0
+71C:\Users\xupxy\OneDrive\Desktop\forkify-app\src\js\views\resultsView.js133488391788333342 0
 114C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\@parcel\optimizer-svgo\node_modules\csso\dist\csso.min.js133479916871914965 0
 76C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\is-arrayish\LICENSE133479916861425280 0
 95C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\@swc\helpers\esm\_wrap_native_super.js133479916886483961 0
@@ -199,7 +199,7 @@
 78C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\detect-libc\README.md133479916860582360 0
 117C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\csso\node_modules\css-tree\cjs\syntax\node\AtrulePrelude.cjs133479916864143281 0
 82C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\lmdb\dependencies\lz4\lib133479916885566418 1
-64C:\Users\xupxy\OneDrive\Desktop\forkify-app\src\js\views\view.js133485878965580191 0
+64C:\Users\xupxy\OneDrive\Desktop\forkify-app\src\js\views\view.js133488394615287495 0
 98C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\core-js\proposals\change-array-by-copy.js133480614027529918 0
 86C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\core-js\actual\string\trim.js133480614084571713 0
 88C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\@parcel\plugin\lib\PluginAPI.js133479916860010744 0
@@ -299,7 +299,7 @@
 91C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\core-js\es\typed-array\iterator.js133480614057805003 0
 92C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\core-js\es\array\find-last-index.js133480614044113273 0
 79C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\core-js\actual\self.js133480614072103222 0
-64C:\Users\xupxy\OneDrive\Desktop\forkify-app\src\js\controller.js133487567483468199 0
+64C:\Users\xupxy\OneDrive\Desktop\forkify-app\src\js\controller.js133488392203443340 0
 93C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\core-js\es\number\is-safe-integer.js133480614056612299 0
 103C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\caniuse-lite\data\features\css-text-spacing.js133479916888498581 0
 111C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\@swc\helpers\esm\_class_check_private_static_access.js133479916884140242 0
@@ -1323,7 +1323,7 @@
 74C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\tslib\LICENSE.txt133479916867516412 0
 96C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\core-js\stable\function\has-instance.js133480614050333068 0
 70C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\tslib\modules133479916866369487 1
-59C:\Users\xupxy\OneDrive\Desktop\forkify-app\dist\index.html133487550585000705 0
+59C:\Users\xupxy\OneDrive\Desktop\forkify-app\dist\index.html133488363157234514 0
 101C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\core-js\stable\string\virtual\replace-all.js133480614068943888 0
 90C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\@parcel\utils\test\config.test.js133479916867197385 0
 93C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\htmlnano\lib\modules\mergeStyles.mjs133479916880043789 0
@@ -4637,7 +4637,7 @@
 86C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\css-select\lib\index.d.ts.map133479916874782737 0
 95C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\@parcel\transformer-image\package.json133479916865170525 0
 84C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\css-select\lib\index.js.map133479916875296493 0
-71C:\Users\xupxy\OneDrive\Desktop\forkify-app\dist\index.f7626f62.css.map133487571073428607 0
+71C:\Users\xupxy\OneDrive\Desktop\forkify-app\dist\index.f7626f62.css.map133488394617877982 0
 99C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\core-js\modules\esnext.array.last-index.js133480614038059100 0
 92C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\caniuse-lite\data\regions\alt-af.js133479916868598651 0
 88C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\css-select\lib\pseudo-selectors133479916879694745 1
@@ -4706,7 +4706,7 @@
 89C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\core-js\es\instance\find-last.js133480614044374954 0
 93C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\@parcel\package-manager\package.json133479916872887517 0
 103C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\css-select\lib\esm\pseudo-selectors\filters.js133479916866010433 0
-67C:\Users\xupxy\OneDrive\Desktop\forkify-app\dist\icons.21bad73c.svg133487571075022120 0
+67C:\Users\xupxy\OneDrive\Desktop\forkify-app\dist\icons.21bad73c.svg133488394620666076 0
 91C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\core-js\full\typed-array\reduce.js133480614066322241 0
 107C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\css-select\lib\esm\pseudo-selectors\filters.js.map133479916873840118 0
 79C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\core-js\postinstall.js133480614064478381 0
@@ -5486,7 +5486,7 @@
 93C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\caniuse-lite\data\features\dialog.js133479916890004549 0
 89C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\core-js\features\instance\map.js133480614060495341 0
 90C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\core-js\modules\es.reflect.get.js133480614036176607 0
-66C:\Users\xupxy\OneDrive\Desktop\forkify-app\dist\logo.726d37a8.png133487571073378751 0
+66C:\Users\xupxy\OneDrive\Desktop\forkify-app\dist\logo.726d37a8.png133488394617768267 0
 100C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\core-js\modules\es.reflect.is-extensible.js133480614036196554 0
 94C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\core-js\full\string\is-well-formed.js133480614057044578 0
 92C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\core-js\modules\es.regexp.sticky.js133480614036346270 0
@@ -6929,7 +6929,7 @@
 97C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\core-js\features\instance\code-points.js133480614027938853 0
 97C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\core-js\features\instance\demethodize.js133480614031077820 0
 96C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\core-js\features\instance\filter-out.js133480614042908854 0
-66C:\Users\xupxy\OneDrive\Desktop\forkify-app\dist\index.e37f48ea.js133487576859314092 0
+66C:\Users\xupxy\OneDrive\Desktop\forkify-app\dist\index.e37f48ea.js133488394620175515 0
 110C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\@parcel\runtime-js\src\helpers\browser\html-loader.js133479916870079856 0
 96C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\core-js\features\instance\find-index.js133480614043911016 0
 95C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\core-js\features\instance\find-last.js133480614044434798 0
@@ -9628,10 +9628,10 @@
 68C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\.bin\semver133479916901332603 0
 66C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\.bin\svgo133479916901352654 0
 84C:\Users\xupxy\OneDrive\Desktop\forkify-app\node_modules\.bin\update-browserslist-db133479916901352654 0
-69C:\Users\xupxy\OneDrive\Desktop\forkify-app\dist\favicon.8b2f57bf.png133487571073858686 0
+69C:\Users\xupxy\OneDrive\Desktop\forkify-app\dist\favicon.8b2f57bf.png133488394617858026 0
 79C:\Users\xupxy\OneDrive\Desktop\forkify-app\dist\favicon.8b2f57bf.png.106004.7x133479921583170852 0
 72C:\Users\xupxy\OneDrive\Desktop\forkify-app\dist\forkify-app.3464ddca.js133479921182972869 0
 77C:\Users\xupxy\OneDrive\Desktop\forkify-app\dist\icons.21bad73c.svg.106004.7w133479921583160840 0
-67C:\Users\xupxy\OneDrive\Desktop\forkify-app\dist\icons.dfd7a6db.svg133487571073378751 0
-70C:\Users\xupxy\OneDrive\Desktop\forkify-app\dist\index.e37f48ea.js.map133487576859403869 0
-67C:\Users\xupxy\OneDrive\Desktop\forkify-app\dist\index.f7626f62.css133487571073378751 0
+67C:\Users\xupxy\OneDrive\Desktop\forkify-app\dist\icons.dfd7a6db.svg133488394617694171 0
+70C:\Users\xupxy\OneDrive\Desktop\forkify-app\dist\index.e37f48ea.js.map133488394620267156 0
+67C:\Users\xupxy\OneDrive\Desktop\forkify-app\dist\index.f7626f62.css133488394617694171 0
